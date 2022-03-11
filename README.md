@@ -1,3 +1,3 @@
 # Expense tracker by React to descripe your transaction and balance
 
-<img  src='./public/img/home-page.jpg' >
+<img  src='./public/expense-tracker.jpg' >
